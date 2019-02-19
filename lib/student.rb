@@ -18,6 +18,7 @@ end
       hash.each do ||
 
   end
+  emd
 end
   def add_student_attributes(attributes_hash)
 
